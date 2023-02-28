@@ -16,6 +16,7 @@ public class demo1 {
     public static void main(String[] args) {
         // TODO code application logic here
          System.out.println("First Git and Jenkins demo tutorial");
+         System.out.println("Second line Git and Jenkins demo ");
     }
     
 }
