@@ -8,6 +8,6 @@ package com.cenadi.git.jenkins.demo1;
  *
  * @author Moussa Housseini
  */
-public class NewClass {
+public class produit {
     
 }
